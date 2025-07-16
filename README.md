@@ -1,3 +1,4 @@
 # first_project
-this is my first git repository
-auhtor-tanya raj
+This is my first git repository.
+<br>
+Auhtor-tanya raj
